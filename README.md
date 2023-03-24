@@ -2,9 +2,11 @@
 
 ## Content :label:
 This repository contains all the code and data required to run the RL-based, reactive MTD selection experiments, 
-respectively recreate the figures of the report. It is implemented using Python 3 and additional libraries. 
+respectively recreate the figures of a thesis report. It is implemented using Python 3 and additional libraries. 
 TheRL/DL models are built using PyTorch. Custom Environment interfaces work analogously to OpenAI Gym.
 All has been tested on a Raspberry Pi 3 Model B+ with 1 GB RAM.
+Some results of this work have been condensed into a short paper submitted to the JOURNAL OF IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY.
+It can be found in [Arxiv](https://arxiv.org/pdf/2212.14647.pdf)
 
 
 ## Code structure :book:
